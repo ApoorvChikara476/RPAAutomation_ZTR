@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="L8MT7vGuYUyjhRnsjEvFLw" Reference="HuIHL7LOqkuTDi6hIIzqqQ/XpvZTErGxkq_P-CCJjs1ZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs" CVScreenId="4b8c334a-5e08-4808-a110-a6d68bc4aa17" CvTextArea="384, 560, 106, 21" CvTextArgument="[in_JobID.ToString]" CvType="Text" DesignTimeRectangle="494, 475, 39, 39" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='A' aaname='{0}' colName='Job Code' tableCol='2' /&gt;&quot;, in_JobID)]" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='A' aaname='{0}' colName='Job Code' type='' class='' /&gt;&quot;, in_JobID)]" Guid="c177a72a-abf1-4518-8781-08de3044001c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="81d8a42c231d5b19cd299561b605de97.png" xmlns="">0ljTzEOSFN0m10jbFNaXVvQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="JID000039" IsVariable="False" Name="in_JobID" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

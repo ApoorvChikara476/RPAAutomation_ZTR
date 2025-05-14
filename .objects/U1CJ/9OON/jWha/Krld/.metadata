@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Jobs",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Krld-S6yxEuFdKm4wou_YA",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/Krld-S6yxEuFdKm4wou_YA",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/jWhaNS1KuUuU_3RWyNS0sQ",
+  "Created": "2025-04-24T13:43:59.5995011Z",
+  "Updated": "2025-04-24T13:43:59.5995011Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

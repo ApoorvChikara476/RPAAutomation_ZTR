@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Candidates",
+  "Type": "Element",
+  "Id": "rINirow5LkO1f4rOebJySg",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/rINirow5LkO1f4rOebJySg",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/CwrapiDIBEmPStawKVtgiQ",
+  "Created": "2025-05-03T15:36:15.2025502Z",
+  "Updated": "2025-05-03T15:36:15.2025502Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

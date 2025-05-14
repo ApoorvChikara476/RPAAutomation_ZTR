@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Job Title",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "aJ2blrJyCU6gIN9eJeoTiA",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/aJ2blrJyCU6gIN9eJeoTiA",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/CwrapiDIBEmPStawKVtgiQ",
+  "Created": "2025-05-01T09:01:50.2015092Z",
+  "Updated": "2025-05-01T09:01:50.2015092Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

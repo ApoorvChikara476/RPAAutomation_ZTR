@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Jobs",
+  "Type": "Element",
+  "Id": "6sUvnx4YnUi8RiyGUX-UbA",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/6sUvnx4YnUi8RiyGUX-UbA",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/CwrapiDIBEmPStawKVtgiQ",
+  "Created": "2025-04-28T11:23:31.8481765Z",
+  "Updated": "2025-04-28T11:23:31.8481765Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

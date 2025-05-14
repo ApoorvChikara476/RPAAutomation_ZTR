@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Share",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "G3C2uUAssECGgvt63QVNyg",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/G3C2uUAssECGgvt63QVNyg",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/CwrapiDIBEmPStawKVtgiQ",
+  "Created": "2025-05-01T08:49:09.7217875Z",
+  "Updated": "2025-05-01T08:49:09.7217875Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

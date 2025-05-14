@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NQiX0tChi0ypm2S8uxZpIQ" Reference="HuIHL7LOqkuTDi6hIIzqqQ/JgtyYYK-O0KHGmnfMnO6gg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/view-job/ai-machine-result/JID000012" CVScreenId="3168cbc9-850b-4408-b5fa-5e7cb8d885a4" DesignTimeRectangle="167, 524, 1727, 252" DesignTimeScaleFactor="1.5" ElementType="CheckBox" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tableRow='{0}' parentid='root' type='checkbox' /&gt;&quot;, int_rowIndex)]" Guid="49dab7aa-fc80-4176-bba4-211eee08e42d" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="bcf2f8d7f91322fc7fbd346d01629f7d.png" xmlns="">0j_49WKBYQUi3Hm0kVuMFwg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="int_rowIndex" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

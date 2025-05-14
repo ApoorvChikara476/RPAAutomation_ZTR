@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VGzmMZB5mESfheX1Ifh2mA" Reference="HuIHL7LOqkuTDi6hIIzqqQ/Wr7bsk7SWkCrZqMiiKASpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/snap-view/JID000018" CVScreenId="e49e02e6-7208-48bf-95ee-52af48f6cb17" DesignTimeRectangle="1764, 1637, 67, 27" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='View All' tag='A' parentid='root' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='View All' tag='A' parentid='root' type='' class='text-[12px] xxl:text-[14px] 2xl:text-[18px] font-semibold underline' check:text='View All' /&gt;" Guid="10a3f8e0-c344-428e-a589-a184dba0f2d2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete" />
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kxikz-qusk-hg1-K5M1uXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs" CVScreenId="ff6f9f41-9fca-4d5b-ba82-180a3ba801fd" DesignTimeRectangle="1556, 965, 72, 30" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='combobox' tableRow='1' tag='DIV' rowName='Rows per page*' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='combobox' type='' tag='DIV' rowName='Rows per page*' class='MuiSelect-select MuiTablePagination-select MuiSelect-standard MuiInputBase-input css-1yxt9mb' aaname='10' check:text='10' /&gt;" Guid="43e487b3-a5c1-447c-bc9a-09625ebcf70e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e87bcf0074472337202ac507ad172e9d.png" xmlns="">0HpjROb4wtUGQjEl56jQznA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

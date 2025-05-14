@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CZeDzGB18k--bw7XbruAOQ" Reference="HuIHL7LOqkuTDi6hIIzqqQ/EJY3lC7ty0Oe56KiWJCmzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/login" CVScreenId="98d5c709-4a1b-42a3-b57b-a2f8c846ebd6" DesignTimeRectangle="491, 462, 300, 105" DesignTimeScaleFactor="1.5" ElementType="Icon" FullSelectorArgument="&lt;webctrl aaname='E-Solutions-INC' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='E-Solutions-INC' tag='IMG' type='' class='w-[100%] h-[70px] pb-[10px] object-contain' /&gt;" Guid="fe5ceeae-b53c-4cd7-8443-db018070aa2c" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="98d5c709-4a1b-42a3-b57b-a2f8c846ebd6" CvTextArea="548, 585, 168, 19" CvTextArgument="E-Solutions-INC" CvType="Text" DesignTimeRectangle="491, 582, 284, 31" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='text-[14px] xxl:text-[16px] 2xl:text-[20px] text-[#545454] font-[600] text-center' aaname='E-Solutions-INC' check:innerText='E-Solutions-INC' /&gt;" Guid="13fa372e-51ab-4d09-85c1-076ab80fb883" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7f986f3e0be7cec6ad9f9a422c206153.png" xmlns="">05An-fYHcOE-r07v9UbtbFA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

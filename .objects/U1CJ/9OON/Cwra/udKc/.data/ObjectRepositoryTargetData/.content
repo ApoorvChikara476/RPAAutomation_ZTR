@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lkSimrN0UkG8al-uOzH-gQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/snap-view/JID000039" CVScreenId="a3a2c865-3604-45f5-82cb-60bf21a2203d" DesignTimeRectangle="191, 457, 56, 36" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='1' aaname='Score' parentid='root' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='SPAN' aaname='Score' parentid='root' type='' class='MuiButtonBase-root MuiTableSortLabel-root MuiTableSortLabel-directionAsc css-4he1br' check:text='Score' /&gt;" Guid="1f47d137-8bc4-4139-a920-d2867c129d73" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="074da86a88a58cd4ac656d80c98fe676.png" xmlns="">0QDWGQI0G2kCRXbyT2huyYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

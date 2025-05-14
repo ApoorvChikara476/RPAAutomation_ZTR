@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z6PaZT1xhEiPfxydTSJK8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/view-job/ai-machine-result/JID000005" CVScreenId="2d969383-42a2-41bf-982d-7caa3569d0b6" CvTextArea="261, 509, 57, 19" CvTextArgument="Score" CvType="Text" DesignTimeRectangle="263, 502, 95, 36" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='SPAN' aaname='Score' parentid='root' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='SPAN' aaname='Score' parentid='root' class='MuiButtonBase-root MuiTableSortLabel-root MuiTableSortLabel-directionAsc css-4he1br' check:text='Score' /&gt;" Guid="fbd00bed-2ee9-413d-9289-1984a4ddf283" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6b94ea6c9d71d216972fe4df49167471.png" xmlns="">04HBwPBUJq0aSdjHAOcZKaQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

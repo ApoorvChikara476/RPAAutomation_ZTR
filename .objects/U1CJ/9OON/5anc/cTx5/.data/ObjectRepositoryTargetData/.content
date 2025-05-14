@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cmy5hetHfUK5r5AnsotJ0Q" Reference="HuIHL7LOqkuTDi6hIIzqqQ/cTx5hC_R0E-QuPO0GDgs8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com" CVScreenId="7e74be4b-33cb-4c5d-a163-545af6d004e0" DesignTimeRectangle="1424, 809, 366, 68" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname='Log In' parentid='root' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='site_btn fill_btn w-[100%] text-[16px] 2xl:text-[20px] py-[10px] shadow-[0px_5px_10px_0px_#1C85E84D] mt-[20px]' aaname='Log In' check:innerText='Log In' /&gt;" Guid="c5912cf5-da8c-4f4c-b216-107771359765" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="de2160a8e20483dd51139cd237549287.png" xmlns="">0FLqfkI7ZpU6jv-1bHwvfFw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

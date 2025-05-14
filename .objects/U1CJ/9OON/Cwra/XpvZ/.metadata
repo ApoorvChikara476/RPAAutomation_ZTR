@@ -1,0 +1,14 @@
+﻿{
+  "Name": "JID000102",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "XpvZTErGxkq_P-CCJjs1ZQ",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/XpvZTErGxkq_P-CCJjs1ZQ",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/CwrapiDIBEmPStawKVtgiQ",
+  "Created": "2025-04-28T11:41:34.5164145Z",
+  "Updated": "2025-04-28T11:41:34.5164145Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

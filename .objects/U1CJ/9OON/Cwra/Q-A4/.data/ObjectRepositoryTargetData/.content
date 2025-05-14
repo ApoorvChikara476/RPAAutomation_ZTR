@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cTN3I5qt1EmuUIT3Hbjskg" Reference="HuIHL7LOqkuTDi6hIIzqqQ/Q-A49O-uQ0-b6ajaA3NBHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/view-job/ai-machine-result/JID000044" CVScreenId="13504499-811c-40e5-adf7-035c1ce2011f" DesignTimeRectangle="459, 958, 114, 30" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' class='MuiTablePagination-displayedRows css-wqp0ve' parentid='root' aaname='1–?0 of*' /&gt;" Guid="c3384ae9-8c4a-4eb7-8c78-b3fcf551bc58" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="13504499-811c-40e5-adf7-035c1ce2011f" DesignTimeRectangle="167, 958, 160, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Rows per page:' class='MuiTablePagination-selectLabel css-wqp0ve' parentid='root' /&gt;" Guid="68723674-12ad-4973-8d3a-1d8e30265d0c" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c3eff4660c3bb5d28660c16bec4b5764.png" xmlns="">0MmjrihMQKkivsEsUQJtIqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Job Code",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "TK-gdjo62UOAj9X2hUURbw",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/TK-gdjo62UOAj9X2hUURbw",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/jWhaNS1KuUuU_3RWyNS0sQ",
+  "Created": "2025-04-24T13:56:13.259412Z",
+  "Updated": "2025-04-24T13:56:13.259412Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

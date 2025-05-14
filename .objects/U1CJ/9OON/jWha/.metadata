@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Otomashen ATS(1)",
+  "Type": "Screen",
+  "Id": "jWhaNS1KuUuU_3RWyNS0sQ",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/jWhaNS1KuUuU_3RWyNS0sQ",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/9OONoWy_SUCi9a1ZV6zCvA",
+  "Created": "2025-04-24T13:39:44.3523111Z",
+  "Updated": "2025-04-24T13:39:44.3523111Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

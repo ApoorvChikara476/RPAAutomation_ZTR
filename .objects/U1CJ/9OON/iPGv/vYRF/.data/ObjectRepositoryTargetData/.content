@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0UC94bUTMkuJjc08ZcRcpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/login" CVScreenId="3d1d78cd-f816-45a4-8b15-5d2dd28bb175" CvElementArea="1421, 801, 371, 73" CvTextArea="1562, 822, 87, 24" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="1424, 804, 366, 68" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname='Submit' parentid='root' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' aaname='Submit' parentid='root' type='submit' class='site_btn fill_btn w-[100%] text-[16px] 2xl:text-[20px] py-[10px] shadow-[0px_5px_10px_0px_#1C85E84D] mt-[20px]' check:text='Submit' /&gt;" Guid="2fe71a98-319f-4a06-81ef-b72a6f417c81" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="048579473e7f28ffe51ba76767e42eaa.png" xmlns="">0wLwvwwxtk0mCW7KJM34iYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

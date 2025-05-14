@@ -1,0 +1,252 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ATS_Login_Workflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_OTP&Flowchart_1",
+        "bool_Flag&Flowchart_1",
+        "int_counter&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_LoginURL",
+        "in_UserName",
+        "in_UserPassword"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TransactionItem&StateMachine_1",
+        "SystemException&StateMachine_1",
+        "BusinessException&StateMachine_1",
+        "TransactionNumber&StateMachine_1",
+        "Config&StateMachine_1",
+        "RetryNumber&StateMachine_1",
+        "TransactionField2&StateMachine_1",
+        "TransactionField1&StateMachine_1",
+        "TransactionID&StateMachine_1",
+        "dt_TransactionData&StateMachine_1",
+        "ConsecutiveSystemExceptions&StateMachine_1",
+        "ShouldStop&Sequence_25"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_OrchestratorQueueName",
+        "in_OrchestratorQueueFolder"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/Process.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_JobID&Sequence_1",
+        "bool_Exception&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_TransactionItem",
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CandidateFit/Job Trigger.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_table1&Sequence_1",
+        "dt_table2&Sequence_1",
+        "OatsUrl&Sequence_1",
+        "Username&Sequence_1",
+        "Password&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/GetTransactionData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_TransactionNumber",
+        "in_Config",
+        "out_TransactionItem",
+        "out_TransactionField1",
+        "out_TransactionField2",
+        "out_TransactionID",
+        "io_dt_TransactionData"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CandidateFit/CandidateResponse.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "JobID&Sequence_1",
+        "dt_FormResponse&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Fetch_New_Jobs.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_Flag&Sequence_1",
+        "int_counter&Sequence_1",
+        "dt_ExtractedDataJobs&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CandidateFit/CandidateFit.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "listFitCandidate&Sequence_1",
+        "dt_CandidateName&Sequence_1",
+        "dt_CandidateDetails&Sequence_1",
+        "OatsURL&Sequence_1",
+        "Username&Sequence_1",
+        "Password&Sequence_1",
+        "IndexW&Sequence_13"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/InitAllSettings.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_SettingsAndConstants&Sequence_5",
+        "dt_Assets&Sequence_6",
+        "AssetValue&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_ConfigFile",
+        "in_ConfigSheets",
+        "out_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/KillAllProcesses.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/InitAllApplications.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Framework/SetTransactionStatus.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "QueueRetry&Sequence_17",
+        "ScreenshotPath&Sequence_17"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_BusinessException",
+        "in_TransactionField1",
+        "in_TransactionField2",
+        "in_TransactionID",
+        "in_SystemException",
+        "in_Config",
+        "in_TransactionItem",
+        "io_RetryNumber",
+        "io_TransactionNumber",
+        "io_ConsecutiveSystemExceptions"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Demo_candi.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_JobID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main_Dispatcher.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_SystemException&Sequence_1",
+        "str_BusinessException&Sequence_1",
+        "bool_Exception&Sequence_1",
+        "str_SystemException&Sequence_4",
+        "str_BusinessException&Sequence_4",
+        "bool_Exception&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "JobTriggerDispatcher/Fetch_New_Jobs.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_Flag&Sequence_1",
+        "int_counter&Sequence_1",
+        "dt_ExtractedDataJobs&Sequence_1",
+        "currentDateTime&Sequence_6",
+        "QueueItem&Sequence_6",
+        "list_queueItems&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FitCandidateEmailTrigger/CandidateMergeMail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputElement&Sequence_1",
+        "bool_Exists&Flowchart_2",
+        "str_NumberOfItems&Flowchart_2",
+        "int_rowIndex&Flowchart_2",
+        "int_counter&Flowchart_2",
+        "bool_FitCandidate&Flowchart_2",
+        "dt_ExtractedJobs&Sequence_3",
+        "int_fitJobIndex&Sequence_3",
+        "dt_PerfectFitCandidates&Sequence_7",
+        "bool_NextPage&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_JobID"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

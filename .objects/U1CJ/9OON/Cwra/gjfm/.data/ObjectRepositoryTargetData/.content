@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jn-copN_6UKw99oGDmJEXQ" Reference="HuIHL7LOqkuTDi6hIIzqqQ/gjfmPIpj-EaipMBiYoASHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/view-job/ai-machine-result/JID000039" CVScreenId="6bf33fb6-b373-4259-80d5-c86114b7ad4e" DesignTimeRectangle="639, 955, 36, 36" DesignTimeScaleFactor="1.5" ElementType="Icon" FullSelectorArgument="&lt;webctrl class='MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt' parentid=':r1d:' /&gt;" Guid="cf273fa5-28b6-4c91-9885-2b3a868c8427" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="603, 955, 72, 36" FullSelectorArgument="&lt;webctrl class='MuiTablePagination-actions' parentid='root' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='MuiTablePagination-actions' parentid='root' tag='DIV' type='' aaname='' /&gt;" Guid="b8efb6a8-675a-47ea-a177-35a8e6ef202e" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="19fab89f638d7a42ee2d5d36b51a0f64.png" xmlns="">0z-8iEqdZ1UOGp3PT_aUz3w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

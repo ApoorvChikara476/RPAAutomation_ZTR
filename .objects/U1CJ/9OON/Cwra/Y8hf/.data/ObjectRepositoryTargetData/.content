@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BBA_beX7406Pvu5sb-cLPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/view-job/ai-machine-result/JID000012" CVScreenId="77e78f51-04cf-4277-bdf2-7047882084a9" DesignTimeRectangle="246, 373, 95, 36" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='button' tableRow='1' aaname='?core' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='button' tag='SPAN' aaname='?core' type='' class='MuiButtonBase-root MuiTableSortLabel-root MuiTableSortLabel-directionAsc css-4he1br' check:text='Score' /&gt;" Guid="e86eb133-5c19-4937-a769-71535c67f802" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="088b387232a0c1b38bbaa6990b96cada.png" xmlns="">0i6jVDHdt8EClNohyHcQRpw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Otomashen LOGIN PAge",
+  "Type": "Screen",
+  "Id": "PwVbA4YG40KrbTvmSeQKAg",
+  "Reference": "HuIHL7LOqkuTDi6hIIzqqQ/PwVbA4YG40KrbTvmSeQKAg",
+  "ParentRef": "HuIHL7LOqkuTDi6hIIzqqQ/9OONoWy_SUCi9a1ZV6zCvA",
+  "Created": "2025-05-05T13:03:32.7333906Z",
+  "Updated": "2025-05-05T13:03:32.7333906Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

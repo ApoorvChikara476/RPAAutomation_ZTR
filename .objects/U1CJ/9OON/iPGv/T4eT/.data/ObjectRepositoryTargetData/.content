@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QV3QExb6yUSFzO9yQ3Ck6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/login" CVScreenId="d94f1701-1816-4ab5-8455-cf9ac4fc7a83" DesignTimeRectangle="1424, 502, 366, 36" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H4' aaname='Log In to Your Account' parentid='root' /&gt;" Guid="24697cb1-1a82-43a9-8e68-ba10235c331e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fee30538c3cc6bd8f61f6073c20624f0.png" xmlns="">0BSlJZ7OPnUmtkMpcTrKCQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

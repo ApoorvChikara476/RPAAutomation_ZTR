@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uKWIqHQhJ02RunWfxsftcA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/candidates" CVScreenId="2f68608c-2cce-4b0a-9422-453c02f55d87" DesignTimeRectangle="32, 386, 75, 66" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;webctrl aria-label='Candidates' parentid='root' parentclass='active' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-label='Candidates' parentid='root' parentclass='active' tag='DIV' type='' class='nav_item flex items-center justify-center gap-[8px] 2xl:gap-[13px] px-[10px] py-[12px] rounded-[4px] mb-[11px] 2xl:mb-[20px] transition delay-[0.5]' aaname='' /&gt;" Guid="b3b5dd9d-ca62-416e-91ba-e6dd4dac1ef4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7e0c2c864bf8da0a6f585dcf82333efe.png" xmlns="">0pg4ORIJRV0S6a--8LdBexw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

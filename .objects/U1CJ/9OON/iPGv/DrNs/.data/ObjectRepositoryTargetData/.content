@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cpVDZuMcs0SAUhnqzRUBlA" Reference="HuIHL7LOqkuTDi6hIIzqqQ/DrNsnuJMskWYOWGxZuxaGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/login" DesignTimeRectangle="1424, 646, 366, 75" DesignTimeScaleFactor="1.5" ElementType="InputBoxPassword" FullSelectorArgument="&lt;webctrl id='password' tag='INPUT' parentid='root' /&gt;" FuzzySelectorArgument="&lt;webctrl id='password' tag='INPUT' type='password' class='w-[100%] py-[10px] 2xl:py-[14px] pl-[45px] border-[#939393] focus:outline-[#1C85E8] border-[1.5px] rounded-[4px] text-[16px] 2xl:text-[20px] font-[400] leading-[27px] text-[#545454]' placeholder='.............' aaname='' /&gt;" Guid="72cdeda3-c715-40ff-bf52-6ddd361060e2" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="562604cff17589f3aaab203a28a27f4c.png" xmlns="">0ZiqBOBJBN0ajy1vKYb4eEQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZUqpDsPvRkmU0x1qMjZOhw" Reference="HuIHL7LOqkuTDi6hIIzqqQ/dBFiBeaPeEyhGPtphw-aeg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/account-manager/dashboard" CVScreenId="a2891b59-907c-45b3-a121-0bd505358fde" DesignTimeRectangle="40, 332, 255, 66" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;webctrl parentid='root' tag='DIV' innertext='Jobs' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='root' tag='DIV' innertext='Jobs' type='' class='nav_item flex items-center gap-[8px] 2xl:gap-[13px] px-[10px] py-[12px] rounded-[4px] mb-[11px] 2xl:mb-[20px] transition delay-[0.5]' aaname='' check:text='Jobs' /&gt;" Guid="ff3b8db5-9de1-420b-89e6-52c74d265063" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="9d9a27a1b3b58bc2d680d03ce86b8bff.png" xmlns="">0fiHBqXUEwk2R785_d3Jzzg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8isK5NLFKUq0EUwcxvPPVQ" Reference="HuIHL7LOqkuTDi6hIIzqqQ/WVib0vYnj0e-koSCj7G4IA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/view-job/ai-machine-result/JID000044" CVScreenId="889ccf1e-08fa-40fc-9907-c88e017d742a" DesignTimeRectangle="640, 955, 36, 36" DesignTimeScaleFactor="1.5" ElementType="Icon" FullSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;td&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;svg' class='MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt' idx='2' /&gt;" Guid="a3a7c419-362d-45af-bb3d-2fb51354cc54" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="c3033035b64accbcdd7f2cfe09e01fef.png" xmlns="">0fg2I_qDBoU2F3jdepDg-Hw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

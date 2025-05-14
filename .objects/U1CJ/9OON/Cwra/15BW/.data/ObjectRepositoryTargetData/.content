@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HRitmbbexUKtlwYLCvb0_Q" Reference="HuIHL7LOqkuTDi6hIIzqqQ/15BWS5gfAkm6fcEViR71lQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs" CVScreenId="7d62bfbc-3061-493e-8274-c49ce969c22c" CvElementArea="1851, 980, 27, 32" CvType="ArrowButton" DesignTimeRectangle="1847, 978, 36, 36" DesignTimeScaleFactor="1.5" ElementType="Icon" FullSelectorArgument="&lt;webctrl tableRow='1' tag='svg' colName='Rows per page*' idx='3' /&gt;" Guid="d1a9fd9e-e728-46c1-ac30-1f7083e9a9a3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="91f5c7411b2c8095d72321d1193e2d59.png" xmlns="">086pIlvMbjkKccLaK7ejgxw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

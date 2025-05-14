@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-oiaqjiJiEWdK_u71alc1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev.oats.otomashen.com/jobs/view-job/ai-machine-result/JID000012" CVScreenId="dfdda2b9-bdf4-4bc9-ab78-33fb984b5079" DesignTimeRectangle="531, 792, 98, 22" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='STRONG' aaname='Job Title:' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='STRONG' aaname='Job Title:' type='' class='' check:text='Job Title:' /&gt;" Guid="128d496d-7c07-4908-85aa-4673290d6a60" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Otomashen ATS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bcfc0fc28498c2fee1c6792081e8a091.png" xmlns="">09L_BQcPgykGliTiPz7Y_Sw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
