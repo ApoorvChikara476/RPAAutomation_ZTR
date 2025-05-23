@@ -206,7 +206,10 @@
         "bool_Exception&Sequence_1",
         "str_SystemException&Sequence_4",
         "str_BusinessException&Sequence_4",
-        "bool_Exception&Sequence_4"
+        "bool_Exception&Sequence_4",
+        "bool_Flag&Flowchart_1",
+        "int_counter&Flowchart_1",
+        "str_OTP&Flowchart_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
