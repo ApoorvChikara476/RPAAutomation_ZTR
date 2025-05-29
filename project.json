@@ -4,6 +4,7 @@
   "description": "Login to the website and further extract candidate information. Post adding candidate information send an email to fetch user input using google sheets.",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Credentials.Activities": "[2.1.0]",
     "UiPath.Excel.Activities": "[2.25.1-preview]",
     "UiPath.Form.Activities": "[2.0.8]",
     "UiPath.GSuite.Activities": "[3.1.10-preview]",

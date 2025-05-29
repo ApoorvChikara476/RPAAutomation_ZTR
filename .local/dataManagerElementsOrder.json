@@ -12,6 +12,8 @@
       "Path": "ATS_Login_Workflow.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "Password&Sequence_5",
+        "UserName&Sequence_5",
         "str_OTP&Flowchart_1",
         "bool_Flag&Flowchart_1",
         "int_counter&Flowchart_1"
@@ -28,6 +30,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "str_password&Sequence_17",
+        "str_username&Sequence_17",
         "TransactionItem&StateMachine_1",
         "SystemException&StateMachine_1",
         "BusinessException&StateMachine_1",
@@ -201,15 +205,14 @@
       "Path": "Main_Dispatcher.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "str_password&Sequence_2",
+        "str_Username&Sequence_2",
         "str_SystemException&Sequence_1",
         "str_BusinessException&Sequence_1",
         "bool_Exception&Sequence_1",
         "str_SystemException&Sequence_4",
         "str_BusinessException&Sequence_4",
-        "bool_Exception&Sequence_4",
-        "bool_Flag&Flowchart_1",
-        "int_counter&Flowchart_1",
-        "str_OTP&Flowchart_1"
+        "bool_Exception&Sequence_4"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
