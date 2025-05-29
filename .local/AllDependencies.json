@@ -25868,15 +25868,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KOMAL JHA\\.nuget\\packages\\": {}
+    "C:\\Users\\Apoorv Kumar\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Otomashen_RPA_CandidatePortal",
       "projectName": "Otomashen_RPA_CandidatePortal",
-      "projectPath": "C:\\Users\\KOMAL JHA\\Documents\\UiPath\\RPAAutomation_ZTR\\.local",
-      "packagesPath": "C:\\Users\\KOMAL JHA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KOMAL JHA\\Documents\\UiPath\\RPAAutomation_ZTR\\.local",
+      "projectPath": "C:\\Users\\Apoorv Kumar\\Documents\\UiPath\\RPA\\RPAAutomation_ZTR\\.local",
+      "packagesPath": "C:\\Users\\Apoorv Kumar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Apoorv Kumar\\Documents\\UiPath\\RPA\\RPAAutomation_ZTR\\.local",
       "UsingMicrosoftNETSdk": false
     },
     "frameworks": {
@@ -25928,7 +25928,7 @@
             "version": "[25.2.1-preview, 25.2.1-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\KOMAL JHA\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Apoorv Kumar\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
